@@ -44,7 +44,7 @@ main: #简历主要内容，
     duration: 2020年6月 - 现在
     detail: 基于hexo编写的前端博客项目[https://github.com/hututuQWQ/hututuQWQ.github.io]
   - title: UI库
-    duration: 2020年6月 - 现在
+    duration: 2021年2月 - 现在
     detail: 基于React和StoryBook编写的UI组件库[https://github.com/hututuQWQ/chat-ui]
 
 #others 其他简略内容(列表)
