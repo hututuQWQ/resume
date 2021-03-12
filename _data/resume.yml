@@ -38,11 +38,14 @@ main: #简历主要内容，
   - title: 熟悉
     summary: C++, HTML, CSS,JS,数据结构与算法
 - type: projects
-  name: Projects
+  name: 项目名称
   content:
   - title: 博客
-    duration: 2020年6月 - 西藏奶
-    detail: 基于hexo编写的前端博客项目
+    duration: 2020年6月 - 现在
+    detail: 基于hexo编写的前端博客项目[https://github.com/hututuQWQ/hututuQWQ.github.io]
+  - title: UI库
+    duration: 2020年6月 - 现在
+    detail: 基于React和StoryBook编写的UI组件库
 
 #others 其他简略内容(列表)
 others: #其他列表显示
