@@ -34,7 +34,7 @@ main: #简历主要内容，
   name: "技能"
   content:
   - title: 了解
-    summary: React
+    summary: React,数据库
   - title: 熟悉
     summary: C++, HTML, CSS,JS,数据结构与算法
 - type: projects
