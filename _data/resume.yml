@@ -69,7 +69,7 @@ others: #其他列表显示
     text: "英语cet4"
   - title: "算法能力："
     text: 算法能力突出，leetcode周赛国服150左右，codeforces 1900.
-  - title: "数学"
+  - title: "数学："
     text: 数学能力优异，高数线代取得高分
 #- type: 
 #  name: '其他'
