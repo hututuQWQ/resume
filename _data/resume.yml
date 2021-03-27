@@ -53,11 +53,13 @@ main: #简历主要内容，
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: PAT-2021年春季考试-甲级 满分
     duration: "2021年3月"
-  - title: 第十一届蓝桥杯国赛c++二等奖
+  - title: 第十一届蓝桥杯国赛b组c++二等奖
     duration: "2020年11月"
+  - title: 第十一届蓝桥杯省赛b组c++全省第一
+    duration: "2020年9月"
   - title: 大连理工大学城市学院学习优秀生
     duration: "2019年11月"
-  - title: 第十届蓝桥杯国赛c++三等奖
+  - title: 第十届蓝桥杯国赛b组c++三等奖
     duration: "2019年5月"
     
 #others 其他简略内容(列表)
