@@ -55,11 +55,11 @@ main: #简历主要内容，
   content:
   - title: UI库
     duration: 2021年2月 - 现在
-    detail: 基于React和StoryBook编写的UI组件库[https://github.com/hututuQWQ/chat-ui]
-    
+    text: 基于React和StoryBook编写的UI组件库
+    detail: 利用Styled-components编写组件。Hygen构建组件模板，快速创建组件。地址:[https://github.com/hututuQWQ/chat-ui]
   - title: 博客
     duration: 2020年6月 - 现在
-    summary: 基于hexo编写的前端博客项目
+    text: 基于hexo编写的前端博客项目
     detail: 利用hexo搭建项目，用GitHub Pages, GitHub Actions 对页面进行更新和呈现。地址:[https://github.com/hututuQWQ/hututuQWQ.github.io]
     
 #others 其他简略内容(列表)
