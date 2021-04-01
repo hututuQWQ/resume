@@ -50,17 +50,13 @@ main: #简历主要内容，
     summary: 了解es6 let const 等属性。了解原型链、闭包等。
   - title: React
     summary: 了解JSX、State等。
-- type: projects
+- type: others 
   name: 项目
   content:
   - title: 列表
     list:
     - 第一项
     - 第二项
-  - title: 博客
-    duration: 2020年6月 - 现在
-    summary: 基于hexo编写的前端博客项目
-    detail: 利用hexo搭建项目，用GitHub Pages, GitHub Actions 对页面进行更新和呈现。地址:[https://github.com/hututuQWQ/hututuQWQ.github.io]
     
 #others 其他简略内容(列表)
 - type: education #类别为ID
