@@ -43,9 +43,9 @@ main: #简历主要内容，
   - title: 了解
     summary: http,React,数据库,python,c#
   - title: 熟悉    
-    summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     summary: C++, HTML, CSS,JS,数据结构与算法,Unity
+  - title: CSS
+    summary: 了解css优先级,熟悉盒模型,定位,浮动,浮动清除,flex,grid,圣杯布局和双飞翼布局
 - type: projects
   name: 项目
   content:
