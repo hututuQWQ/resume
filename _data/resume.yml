@@ -60,6 +60,7 @@ main: #简历主要内容，
   - title: 博客
     duration: 2020年6月 - 现在
     detail: 基于hexo编写的前端博客项目[https://github.com/hututuQWQ/hututuQWQ.github.io]
+    detail: 利用hexo搭建项目，用GitHub Pages, GitHub Actions 对页面进行更新和呈现。
     
 #others 其他简略内容(列表)
 - type: education #类别为ID
