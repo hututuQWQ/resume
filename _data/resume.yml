@@ -45,7 +45,11 @@ main: #简历主要内容，
   - title: 熟悉    
     summary: C++, HTML, CSS,JS,数据结构与算法,Unity
   - title: CSS
-    summary: 了解css优先级,熟悉盒模型,定位,浮动,浮动清除,flex,grid,圣杯布局和双飞翼布局
+    summary: 了解css优先级。熟悉盒模型,定位,浮动,浮动清除,flex,grid,圣杯布局和双飞翼布局
+  - title: Js
+    summary: 了解es6 let const 等属性。了解原型链、闭包等。
+  - title: React
+    summary: 了解JSX、State等。
 - type: projects
   name: 项目
   content:
