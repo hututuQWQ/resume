@@ -41,8 +41,10 @@ main: #简历主要内容，
   name: "技能"
   content:
   - title: 了解
-    summary: React,数据库,python,c#
-  - title: 熟悉
+    summary: http,React,数据库,python,c#
+  - title: 熟悉    
+    summary: 职务或者工作总结(自动折叠)
+    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     summary: C++, HTML, CSS,JS,数据结构与算法,Unity
 - type: projects
   name: 项目
