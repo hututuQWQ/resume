@@ -50,7 +50,7 @@ main: #简历主要内容，
     summary: 了解es6 let const 等属性。了解原型链、闭包等。
 
 - type: projects
-  name: Projects
+  name: 项目
   content:
   - title: UI库
     summary: 基于React和StoryBook编写的UI组件库
