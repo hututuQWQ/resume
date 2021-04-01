@@ -55,7 +55,7 @@ main: #简历主要内容，
   - title: UI库
     summary: 基于React和StoryBook编写的UI组件库
     detail:
-      md: _data/_blog.md
+      md: _data/blog.md
   - title: 博客
     summary: 基于hexo编写的前端博客项目
     detail:
