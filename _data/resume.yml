@@ -51,7 +51,6 @@ main: #简历主要内容，
   - title: React
     summary: 了解JSX、State等。
 
-others: #其他列表显示
 - type: others #ID可以为空
   name: '其他'
   content: #选择需要的格式
@@ -67,7 +66,6 @@ others: #其他列表显示
     list:
     - 第一项
     - 第二项
-    
 #others 其他简略内容(列表)
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
