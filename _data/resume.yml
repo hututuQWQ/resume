@@ -53,9 +53,7 @@ main: #简历主要内容，
 - type: projects
   name: 项目
   content:
-  - title: UI库
-    duration: 2021年2月 - 现在
-    - title: 列表
+  - title: 列表
     list:
     - 第一项
     - 第二项
