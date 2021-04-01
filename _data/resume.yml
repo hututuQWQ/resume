@@ -41,25 +41,23 @@ main: #简历主要内容，
   name: "技能"
   content:
   - title: 了解
-    summary: http,React,数据库,python,c#
+    summary: http,了解React的JSX、State等,数据库,python,c#
   - title: 熟悉    
     summary: C++, HTML, CSS,JS,数据结构与算法,Unity
   - title: CSS
     summary: 了解css优先级。熟悉盒模型,定位,浮动,浮动清除,flex,grid,圣杯布局和双飞翼布局
   - title: Js
     summary: 了解es6 let const 等属性。了解原型链、闭包等。
-  - title: React
-    summary: 了解JSX、State等。
 
 - type: projects
   name: Projects
   content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
+  - title: UI库
+    summary: 基于React和StoryBook编写的UI组件库
+    detail:
+      md: _data/demo.md
+  - title: 博客
+    summary: 基于hexo编写的前端博客项目
     detail:
       md: _data/demo.md
    #可继续添加更多内容
