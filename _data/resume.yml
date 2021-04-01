@@ -40,14 +40,16 @@ main: #简历主要内容，
 - type: skills
   name: "技能"
   content:
-  - title: 了解
-    summary: http,了解React的JSX、State等,数据库,python,c#
-  - title: 熟悉    
-    summary: C++, HTML, CSS,JS,数据结构与算法,Unity
-  - title: CSS
-    summary: 了解css优先级。熟悉盒模型,定位,浮动,浮动清除,flex,grid,圣杯布局和双飞翼布局
-  - title: Js
-    summary: 了解es6 let const 等属性。了解原型链、闭包等。
+  - title: 前端语言/协议
+    summary: 
+      熟悉html,css,js,熟悉页面布局。
+      了解es6属性。
+      了解http协议以及常见的状态码。
+  - title: 前端框架    
+    summary: 了解React的JSX、State等。
+  - title: 其他
+    summary: 了解数据库,python,c#，熟悉C++,Unity
+             编程能力较强，熟悉数据结构和算法。
 
 - type: projects
   name: 项目
