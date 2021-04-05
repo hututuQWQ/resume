@@ -3,8 +3,7 @@
 
 title: "resume"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
-name: "胡文龙1"
-text: "123"
+name: "胡文龙"
 
 #联系方式
 contact: #联系方式连接等3~5行
@@ -17,7 +16,9 @@ contact: #联系方式连接等3~5行
 - text: "hututuqwq.github.io.com"
   href: 'https://hututuqwq.github.io/'
   icon: 'icons/web.svg'
-  
+- text: "备注: 2021 leetcode杯春季 排名:96 id:胡图图"
+  href: 'https://leetcode-cn.com/u/_hututu/
+  icon: 'icons/web.svg'
   # - text: "地址"
   #   icon: "icons/location.svg"
 
