@@ -4,6 +4,7 @@
 title: "resume"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "胡文龙"
+text: "123"
 
 #联系方式
 contact: #联系方式连接等3~5行
